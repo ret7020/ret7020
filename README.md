@@ -7,9 +7,8 @@ I'm a fullstask python developer. Main directions: __ML__, __CV__, __robotics__,
 <h3 align="center">Stats</h3>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ret7020&theme=radical" alt="ret7020" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ret7020&show_icons=true?locale=en&layout=compact&theme=radical" alt="ret7020" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ret7020&theme=radical" alt="ret7020" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ret7020&show_icons=true?locale=en&layout=compact&theme=radical" alt="ret7020" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ret7020&show_icons=true&locale=en&layout=compact&theme=radical" alt="ret7020" />
 </p>
 <h3 align="center">Languages and tools</h3>
