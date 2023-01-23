@@ -1,6 +1,6 @@
-<h3 align="center">Fullstack developer from Russia</h3>
+<h3 align="center">Fullstack developer</h3>
 
-I'm a fullstask python developer. Main directions: __ML__, __CV__, __robotics__, __automation__ and __web__ development. I write CV in __OpenCV__, and ML mostly in PyTorch and Sklearn. I use flask and fast api as a backend for the web. For front native stack __html, css and pure js__ OR __ReactJs__. Usually __REST API__ backend with react front. </br>
+I'm a fullstask python developer. Main directions: __ML__, __CV__, __robotics__, __automation__ and __web__ development. I write CV in __OpenCV__, and ML mostly in PyTorch and Sklearn. I use flask and fast api as a backend for the web. For front native stack __html, css and pure js__ OR __ReactJs__. Usually __REST API__ backend with __ReactJS__ front. </br>
 And btw, I use __Arch Linux__ on my Intel Core i5 CPU laptop.
 
 
