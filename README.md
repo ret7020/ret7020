@@ -2,12 +2,7 @@
 
 I'm a fullstask python developer. Main directions: __ML__, __CV__, __robotics__, __automation__ and __web__ development. I write CV in __OpenCV__, and ML mostly in PyTorch and Sklearn. I use flask and fast api as a backend for the web. For front native stack __html, css and pure js__ OR __ReactJs__. Usually __REST API__ backend with __ReactJS__ front. </br>
 And btw, I use __Arch Linux__ on my Intel Core i5 CPU laptop.
-
-
-
-<h3 align="center">Stats</h3>
-
-
+<h3 align="center">Statistic</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ret7020&theme=radical" alt="ret7020" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ret7020&show_icons=true?locale=en&layout=compact&theme=radical" alt="ret7020" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ret7020&show_icons=true&locale=en&layout=compact&theme=radical" alt="ret7020" />
