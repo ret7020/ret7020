@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Stephan and I'm a FullStack dev</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ret7020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ret7020&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -12,7 +10,7 @@
 
 <img align="right" height="150" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
